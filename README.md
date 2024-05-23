@@ -2,10 +2,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Lexotanill/Lexotanill/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/nfgwnasjp6gk2jvgfnkcmtvdq">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=nfgwnasjp6gk2jvgfnkcmtvdq&count=5" alt="Spotify recently played"  />
@@ -50,12 +46,6 @@
   <a href="ianlucero2006@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://imgflip.com/gif/8r0ukb"  />
 </div>
 
 ###
